@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Cornelius-Frylinck-Portfolio
+   random-route: false
+   memory: 1024M
