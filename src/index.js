@@ -3,12 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Footer from "./components/footer";
+import Header from "./components/header";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <Header />,
+  document.getElementById('header')
+);
+ReactDOM.render(
+    <App />,
   document.getElementById('root')
+);
+ReactDOM.render(
+    <Footer />,
+  document.getElementById('footer')
 );
 
 // If you want your app to work offline and load faster, you can change
