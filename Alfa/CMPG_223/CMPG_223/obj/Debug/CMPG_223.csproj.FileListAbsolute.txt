@@ -1,0 +1,15 @@
+C:\Desktop\CMPG_223\CMPG_223\bin\Debug\CMPG_223.exe.config
+C:\Desktop\CMPG_223\CMPG_223\bin\Debug\CMPG_223.exe
+C:\Desktop\CMPG_223\CMPG_223\bin\Debug\CMPG_223.pdb
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.csprojAssemblyReference.cache
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Form1.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Properties.Resources.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Users.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.csproj.GenerateResource.cache
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.csproj.CoreCompileInputs.cache
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.exe
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.pdb
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Orders.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Invoice.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Stock.resources
+C:\Desktop\CMPG_223\CMPG_223\obj\Debug\CMPG_223.Login.resources
